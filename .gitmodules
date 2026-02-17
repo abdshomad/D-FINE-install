@@ -1,0 +1,6 @@
+[submodule "D-FINE"]
+	path = D-FINE
+	url = https://github.com/abdshomad/D-FINE.git
+[submodule "chicken-detection-labelme-format"]
+	path = chicken-detection-labelme-format
+	url = https://github.com/abdshomad/chicken-detection-labelme-format.git

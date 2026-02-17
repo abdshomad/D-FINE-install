@@ -1,0 +1,17 @@
+[project]
+name = "dfine-install"
+version = "0.1.0"
+description = "D-FINE training on chicken detection dataset (COCO format)"
+requires-python = ">=3.11"
+dependencies = [
+    "torch>=2.0.1",
+    "torchvision>=0.15.2",
+    "faster-coco-eval>=1.6.5",
+    "PyYAML",
+    "tensorboard",
+    "scipy",
+    "calflops",
+    "transformers",
+    "loguru",
+    "supervision>=0.27.0.post1",
+]

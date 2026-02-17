@@ -1,0 +1,6 @@
+secrets/*
+__pycache__/*
+*.log
+chicken-detection-models/
+pretrain/*
+*.pth
